@@ -1,2 +1,1 @@
-burst-moltencore
-================
+# BurstJS Core
