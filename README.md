@@ -1,1 +1,1 @@
-# BurstJS Core
+# Molten Core
