@@ -1,0 +1,30 @@
+{
+  "name": "moltencore",
+  "description": "BurstJS PubSub Core",
+  "version": "0.2.0",
+  "homepage": "http://www.burstjs.com/",
+  "author": {
+    "name": "Cyrille Bogaert",
+    "url": "http://www.toxicode.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hugeen/burst-moltencore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hugeen/burst-moltencore/issues"
+  },
+  "licenses": [
+    {
+      "type": "GPL",
+      "url": "https://github.com/hugeen/BurstJS/blob/master/LICENSE"
+    }
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "keywords": [],
+  "dependencies": {},
+  "devDependencies": {}
+}
